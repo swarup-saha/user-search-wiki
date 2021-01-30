@@ -1,0 +1,50 @@
+/* *{
+    position: relative;
+    box-sizing: border-box;
+    margin: 2px;
+    padding: 0;
+} */
+
+
+h2{
+    font-size: 20px;
+    font-weight: 600;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    position: relative;
+    top: 120px;
+    text-align: center;
+    
+}
+
+.loginpage{
+    position: absolute;
+    top: 240px;
+    left: 280px;
+    text-align: center;
+    align-items: center;
+}
+
+.resgistration{
+    position: absolute;
+    top: 240px;
+    left: 280px;
+    text-align: center;
+    align-items: center;
+}
+
+.resgistration.process{
+    position: absolute;
+    top: 140px;
+    text-align: center;
+    align-items: center;
+}
+
+
+.AdminPage{
+    position: absolute;
+    top: 240px;
+    left: 280px;
+    text-align: center;
+    align-items: center;
+}
